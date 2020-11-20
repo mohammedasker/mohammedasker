@@ -14,4 +14,9 @@ You can find on me:
 # 📩 Latest Blog Posts.
 
 <!-- BLOG-POST-LIST:START -->
+- [How to show or hide element in React](https://dev.to/mohammedasker/how-to-show-or-hide-element-in-react-33l)
+- [How to fix Gatsby plugin Installation Error](https://dev.to/mohammedasker/how-to-fix-gatsby-plugin-installation-error-499m)
+- [How I Learn JavaScript and Build My First Project](https://dev.to/mohammedasker/how-i-learn-javascript-and-build-my-first-project-3ia8)
+- [React Hooks: (0 , _customhooks.default) is not a function](https://dev.to/mohammedasker/react-hooks-0-customhooks-default-is-not-a-function-i99)
+- [How to Add SVG Images in React](https://dev.to/mohammedasker/how-to-add-svg-images-in-react-1h2g)
 <!-- BLOG-POST-LIST:END -->
