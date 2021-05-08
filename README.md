@@ -7,8 +7,6 @@ My interest lies in crafting a website that is simple and easy to use, mobile re
 You can find on me:
 
 - [My personal website](https://www.mohammedasker.com/)
-- [Twitter](https://twitter.com/mooasker)
-- [LinkedIn](https://www.linkedin.com/in/mohdasker/)
 - [Email](mailto:hi@mohammedasker.com)
 
 # 📩 Latest Blog Posts.
